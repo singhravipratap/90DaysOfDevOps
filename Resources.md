@@ -871,6 +871,7 @@ Day-90
 
 - [https://www.youtube.com/watch?v=01qcYSck1c4&t=217s](https://www.youtube.com/watch?v=01qcYSck1c4&t=217s) Kubernetes Backup and Restore made easy!
 - [https://www.youtube.com/watch?v=zybLTQER0yY](https://www.youtube.com/watch?v=zybLTQER0yY) Kubernetes Backups, Upgrades, Migrations - with Velero
+- [https://www.youtube.com/watch?v=8skHGzUBZ-Q](https://www.youtube.com/watch?v=8skHGzUBZ-Q) Webinar: Kubernetes Backup and Migration Strategies using Project Velero
 - [https://www.youtube.com/watch?v=W2Z7fbCLSTw&t=520s](https://www.youtube.com/watch?v=W2Z7fbCLSTw&t=520s) 7 Database Paradigms
 - [https://www.youtube.com/watch?v=07EHsPuKXc0](https://www.youtube.com/watch?v=07EHsPuKXc0) Disaster Recovery vs. Backup: What's the difference?
 - [https://www.youtube.com/watch?v=hDBlTdzE6Us&t=3s](https://www.youtube.com/watch?v=hDBlTdzE6Us&t=3s) Veeam Portability &amp; Cloud Mobility
